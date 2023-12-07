@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">orwma_lv8</string>
+    <string name="spremi_button">Spremi</string>
+    <string name="imageUrl">Image URL</string>
+    <string name="person_name">Person Name</string>
+    <string name="person_description">Person Description</string>
+</resources>

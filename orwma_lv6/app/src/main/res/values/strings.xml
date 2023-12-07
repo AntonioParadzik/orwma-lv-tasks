@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">orwma_lv6</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bruno_petkovic_fragment">Bruno Petković</string>
+    <string name="mateo_kovacic_fragment">Mateo Kovačić</string>
+    <string name="luka_modric_fragment">Luka Modrić</string>
+    <string name="borna_barisic_fragment">Borna Barišić</string>
+    <string name="naprijed_fragment">Naprijed</string>
+    <string name="natrag_fragment">Natrag</string>
+    <string name="text_fragment">Najbolji nogometaš Hrvatske nogometne reprezentacije je: </string>
+</resources>

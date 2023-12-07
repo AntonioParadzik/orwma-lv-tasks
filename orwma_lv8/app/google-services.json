@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234941572996",
+    "project_id": "ormwalv8-paradzik",
+    "storage_bucket": "ormwalv8-paradzik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234941572996:android:5fed1391e7a6a2630bdfd1",
+        "android_client_info": {
+          "package_name": "hr.ferit.antonioparadzik.orwma_lv8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234941572996-1ucpn7mfr8oglk0rgu32soa0p66clhe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1s8PNQzN1txRll83iT_P8GJMe7AbKr3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234941572996-1ucpn7mfr8oglk0rgu32soa0p66clhe1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
