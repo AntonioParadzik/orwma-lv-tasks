@@ -1,2 +1,2 @@
 # orwma-lv-tasks
-Ovaj repozitorij predstavlja Android rješenja zadataka iz Osnova razvoja web i mobilnih aplikacija.
+Android exercises of the Web and Mobile Development class.
